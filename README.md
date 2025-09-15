@@ -8,8 +8,8 @@ I'm a passionate Python developer from India, currently on a journey to become a
 ---
 
 ### 🚀 About Me
-
-- 🎓 I’m currently studying **[B.Sc, Physics]** at **[Siddharth College Mumbai]**.
+    
+- 🎓 I’m studied **[B.Sc, Physics]** at **[Siddharth College Mumbai]**.
 - 🌱 I’m currently learning **[Python]**.
 - 👯 I’m looking to collaborate on open-source Python projects.
 - 💬 Ask me about anything related to Python or Data Structures.
